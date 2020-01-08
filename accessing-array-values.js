@@ -1,2 +1,3 @@
-const food = ['apple', 'pizza', 'pear']
-console.log(food[1])
+const food = ['apple', 'pizza', 'pear',5,'mango']
+food.splice)
+console.log(food)
